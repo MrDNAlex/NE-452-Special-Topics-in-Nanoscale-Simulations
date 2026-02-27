@@ -1,0 +1,4 @@
+geomopt
+optProg=Gaussian
+MLmodelIn=energies.unf
+XYZfile=eq.xyz
