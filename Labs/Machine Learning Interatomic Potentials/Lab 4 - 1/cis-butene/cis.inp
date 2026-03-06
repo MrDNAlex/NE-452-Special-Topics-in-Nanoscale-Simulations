@@ -1,0 +1,4 @@
+!B3LYP D4 DEF2-TZVP OPT FREQ PAL4
+%maxcore 1800
+
+* XYZFILE 0 1 cis.xyz
